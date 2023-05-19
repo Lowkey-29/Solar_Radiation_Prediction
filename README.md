@@ -1,7 +1,7 @@
 # Solar_Radiation_Prediction
 
 
-Using Machine Learning
+Using Machine Learning.
 
 
 Conducted research to gather weather data and built a predictive model using machine learning algorithms; enabled grid operators to optimize solar power generation and improve efficiency.
